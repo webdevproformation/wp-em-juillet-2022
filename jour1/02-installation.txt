@@ -1,0 +1,20 @@
+https://github.com/webdevproformation/wp-em-juillet-2022
+
+installer wordpress sur un hébergement gratuit 
+
+hébergement => ORDINATEUR que vous allez louer 
+            => sur le disque dur de cet ordinateur stocker votre site internet 
+            => logiciel Serveur => Linux + Apache + MySQL 
+            => accéder cessible sur internet via une adresse internet 
+hébergeur payant
+OVH 
+infomaniak
+1&1 Ionos
+nuxit =>  https://store.nuxit.com/?plan=5631&reset=1&codeEtudiant=
+
+AWS Amazone => taille disque dur / ram / nombre de processeur 
+
+----------------------------
+hébergeur gratuit 
+=> https://www.infinityfree.net/
+
