@@ -1,0 +1,55 @@
+Wordpress :
+
+
+CMS => Content Management System 
+
+sorte de logiciel qui permet de GERER un site internet 
+
+CRUD du contenu 
+Create Read Update Delete 
+Mise en page => thème 
+
+NoCode 
+Mais possible de faire du code !! HTML / CSS / PHP / SQL 
+
+Pro / débutant 
+
+2 types d'utilisateurs 
+- utilisateurs non connectés => voir le travail 
+- utilisateurs connectés 
+  - abonné
+  - rédacteur
+  - administrateur (le super gestionnaire du site )
+
+----------------
+
+site internet de type CMS 
+=> Front Office 
+=> Back Office 
+
+
+=> wordpress => blog => Web Log (journal)
+
+
+-----------------
+
+Open source => 
+
+code est gratuit => pas besoin de payer un licence 
+services autour de wp 
+=> formation
+=> personnalisation
+=> traduction
+=> hébergement 
+=> assistance 
+=> SEO avancé 
+=> ajouter du contenu ... 
+
+=> FreeMium => Free Premium (Business Model)
+
+=> NORME 
+
+=> 2022 
+4 sites internet sur 10 utilisent WP pour comme système de gestion de site internet 
+
+=> w3tech (W3C)
