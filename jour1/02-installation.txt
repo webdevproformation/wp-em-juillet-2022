@@ -18,3 +18,49 @@ AWS Amazone => taille disque dur / ram / nombre de processeur
 hébergeur gratuit 
 => https://www.infinityfree.net/
 
+Registrar => noter un registre QUE le nom google.fr 
+propriété de Mr XXXX 
+
+.fr 
+.com 
+.it
+.es 
+
+.apple 
+.bnp 
+
+=> achat pour 1 an 
+=> 18/07/2022 => 18/07/2023 
+
+ projet1.great-site.net
+
+https://cpanel.epizy.com
+
+opizehodzughnoi_y68178
+
+FTP => File Transfert Protocol 
+
+copier coller entre deux ordinateurs 
+Compte FTP 
+host
+login 
+password 
+
+-------------------
+
+FTP hostname: 	ftpupload.net
+FTP username: 	epiz_32192562
+MySQL hostname: 	sql306.epizy.com
+MySQL username: 	epiz_32192562
+
+-------------------
+
+CMS orienté e Commerce
+
+WP + WooCommerce
+Prestashop
+Magento
+CZ Commerce 
+Wix 
+Shopify 
+
