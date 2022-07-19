@@ -1,0 +1,35 @@
+=> lancer votre navigateur 
+
+=> aller sur le projet wp créé hier 
+
+Front office :
+http://projet1.great-site.net
+
+back office 
+Administrative URL : http://projet1.great-site.net/wp-admin/
+
+=> aller sur le back office => et se connecter => dites moi en cas de problème !!
+
+admin
+%Y6x@8$J$$
+
+frioukhines@outlook.fr
+
+------------------
+
+Cas pratique :
+
+Créer un nouvel article dans le back office 
+
+titre => jour 2
+
+=> https://fr.lipsum.com/
+
+bloc
+  => paragraphe contenir 40 mots de votre choix
+  => image avec une image de votre choix 
+  => liste => 4 elements
+  => bloc de titre de niveau 2 contient 3 mots 
+  => tableau 4 colonnes et 3 lignes => remplir chaque case avec le texte de votre choix 
+
+
