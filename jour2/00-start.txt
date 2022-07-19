@@ -32,4 +32,60 @@ bloc
   => bloc de titre de niveau 2 contient 3 mots 
   => tableau 4 colonnes et 3 lignes => remplir chaque case avec le texte de votre choix 
 
+  une fois de l'article est fini d'être créé 
+  bien penser à "Publier" l'article 
+  Attention il n'y a pas de sauvegarde automatique dans WP !
 
+  Espace de gestion de votre site 
+  => voir l'aspect de votre article dans le Front Office 
+  partie publique du site internet !
+
+ bouton => Voir l'article 
+ Cliquer sur l'onglet Article > section Permalien (déplier) > cliquer sur lien 
+
+----------------
+
+ => revenir sur l'article > ajouter un nouveau bloc de titre entre le paragraphe et l'image 
+
+ => revenir dans le back office ( Gutenberg ) système de gestion et création d'article / page dans wp
+
+ => ajouter le bloc de titre 
+ => cliquer sur le bouton "Mettre à jour" => pour enregistrer la modification de l'article 
+
+------------------
+
+cas pratique :
+créer un nouvel article 
+
+titre principal => exo 2
+
+blocs 
+    - titre de niveau 2 avec 4 mots 
+    - liste de 3 elements
+    - galerie photo contenant 4 images de votre choix sur 2 colonnes 
+    - titre de niveau 2 avec 3 mots 
+    - tableau avec 2 colonnes 5 lignes 
+    - titre de niveau 2 avec 5 mots 
+    - insérer une google map centré sur le Sacré Coeur de Paris 
+    - insérer une vidéo Dailymotion de votre choix
+
+
+----------
+
+Elementor ??? Concurrent de Gutenberg 
+
+extension (plugin) => Page builder 
+grâce à Elementor créer des mises en page avancées pour votre site internet wordpress 
+
+version 5 de wordpress 
+
+à partir de la version 5 de wordpress => Gutenberg 
+permet de réaliser les même types de mise en page que gutenberg 
+
+------------------
+
+cas pratique :
+
+via wordpress et gutenberg créer un nouveau article qui va avoir une mise en page la plus proche de la recette de cuisine suivante :
+
+https://1001recettes.blogspot.com/2006/07/salade-de-penne.html
