@@ -22,3 +22,28 @@ créer un nouvel article dans votre site wordpress
 
 utiliser l'article suivant comme modèle pour le réaliser : 
 https://1001recettes.blogspot.com/2010/09/un-risotto-sucre-sale.html
+
+Risotto à la bière blanche et Stilton et tranches de melons poêlés
+
+p => taille de texte par défaut est de 12px 
+20
+
+texte qui contient une image 
+texte soit coule autour de l'image => par défaut cet effet n'est disponible par défaut 
+dans gutenberg 
+
+par contre il est disponible dans le css => float 
+
+=> insérer l'image dans le texte via le petit triangle
+=> ajouter une class css sur le p qui contient le texte ET l'image 
+=> Avancé > Classe(s) CSS additionnelle(s) > text-avec-image
+=> mettre à jour
+=> sortir de l'article bouton WP 
+=> OUtils > Editeur de fichier de thème
+
+à la fin écrire une règle css 
+.text-avec-image img{
+	float: right;
+	margin:10px;	
+}
+
