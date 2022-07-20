@@ -89,3 +89,13 @@ cas pratique :
 via wordpress et gutenberg créer un nouveau article qui va avoir une mise en page la plus proche de la recette de cuisine suivante :
 
 https://1001recettes.blogspot.com/2006/07/salade-de-penne.html
+
+
+
+=> finir la création d'article / méta informations 
+=> classer les articles => catégories / etiquettes 
+=> gestion du menu ET !! thème gérér l'apparence visuel
+=> extensions => SEO !!! Yoast 
+
+rdv 
+=> hnourhen5@gmail.com => partager wetransfer à tout le monde 

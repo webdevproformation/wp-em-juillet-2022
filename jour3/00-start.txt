@@ -1,0 +1,19 @@
+Lancer votre projet wp (hébergeur infinityfree)
+
+Aller sur le back office : 
+
+Front office :
+http://projet1.great-site.net
+
+back office 
+Administrative URL : http://projet1.great-site.net/wp-admin/
+
+
+--------------
+
+cas pratique :
+
+créer un nouvel article dans votre site wordpress 
+
+utiliser l'article suivant comme modèle pour le réaliser : 
+https://1001recettes.blogspot.com/2010/09/un-risotto-sucre-sale.html
