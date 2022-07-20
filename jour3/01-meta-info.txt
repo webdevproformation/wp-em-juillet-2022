@@ -1,0 +1,79 @@
+Article 
+
+zone de titre
+
+zone des blocs
+ -image
+ -titre 
+ - p 
+ personnalisable via le menu au dessus / onglet bloc 
+
+
+dernière zone importante 
+ "onglet article" => méta information 
+
+ meta information => information sur une information 
+
+ livre 
+    couverture => photo / titre / resumé / nom auteur / prix / code barre 
+    donner une idée du contenu du livre 
+
+"onglet article"
+ 5 sections 
+    => Etat et visibilité => 
+        publié ???  
+
+        plusieurs état => publié maintenant / publié plus tard / brouillon 
+        Visibilité => public => tout le monde peut le voir
+                      privée => article visible uniquement aux utilisateurs
+                      qui disposent d'un compte dans le site 
+                      protégé => public MAIS il faudra saisir un mot de passe pour pouvoir le voir 
+
+
+
+    Modèle => comment les différentes zones de votre article vont être affichées dans le front office
+    il est possible d'ajouter des mise en page en plus (via gutenberg)
+
+
+    Permalien => 
+        http://domaine.fr/rissoto-pas-cher => url (permalien)
+
+        http://domaine.fr/ le domaine 
+        rissoto-pas-cher => slug mot clé que l'on ajoute dans le permalien 
+        pour améliorer votre référencement naturel dans les moteurs de recherche 
+
+    
+créer des articles => dans wp 
+    contenu classable 
+    article que nous avons créés peuvent être regroupé par thèmatique
+
+    quel est le thème / le sujet qui permet de regrouper des articles ? 
+
+    catégorie 
+
+
+Catégorie 
+
+Recette 
+   sucrée
+   salée 
+wordpress
+   installation
+   gutenberg 
+   mise en page 
+
+1 créer ces 7 catégories => associées aux articles concernés 
+
+
+---------------------
+
+cas pratique :
+
+créer un nouvel article en utilisant la recette suivante pour le contenu et les images et la mise en page :
+
+https://1001recettes.blogspot.com/2009/07/cest-fort-en-chocolat-et-meme-bien-plus.html
+
+associer cet article aux catégories suivantes  : 
+
+recette
+sucrée

@@ -42,8 +42,16 @@ par contre il est disponible dans le css => float
 => OUtils > Editeur de fichier de thème
 
 à la fin écrire une règle css 
+/* css */
 .text-avec-image img{
-	float: right;
+	float: right; /* propriété du langage css  */
 	margin:10px;	
 }
 
+//javascript 
+const toto = 1.2 ; // type float 
+
+# python
+def
+
+// rdv 14h50 bon café !! 
