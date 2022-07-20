@@ -1,0 +1,25 @@
+en général 
+
+liste des pages => arborescence (menu) =>rédiger les articles 
+
+
+dans wordpress :
+
+rédiger les articles  => thématique => arborescence (menu)
+
+
+menu 
+    Accueil  <a href="">Accueil</a>
+    Recette 
+        - salée
+        - sucrée
+    Wordpress 
+        - installation 
+        - mise en page 
+        - gutenberg 
+
+
+Apparence > Editeur 
+
+zone de menu => cliquer dessus => premier icone => transformer 
+        
