@@ -1,0 +1,54 @@
+SEO => Search Engine Optimization 
+
+référencement naturel 
+
+Ensemble de technique que l'on va mettre en place dans notre site internet
+pour que Google propose dans ses pages de résultats notre site 
+
+-----------------
+
+Comment les gens vont accéder à votre site ? 
+3 manières 
+
+- Google => mot clé => résultat => lien proposés
+
+- facebook / lemonde.fr / wikipedia => canal+.fr => saisir dans la barre d'adresse l'adresse du site 
+- possibilité de stocker les favoris de votre navigateur 
+
+- backlink => lien dans une page d'un autre site que le mien 
+
+=> via la première méthode que l'on va utiliser pour chercher n'importe quelle sujet sur internet 
+
+dans 95 % des recherches => google 
+bing (microsoft / ) / qwant / ecosia / duckduckgo 
+
+
+=> chine  Baidu 
+=> russie Yandex 
+
+-------------------------
+
+référencement => comment google va classer ses résultats ? 
+
+-------------------------
+
+Yoast => extension de wordpress qui va nous aider pour améliorer notre référencement naturel sur google 
+
+SEO Quake => extension chrome => donner une note pour bien rédiger nos articles 
+
+Ubersuggest 
+
+-------------------------
+
+
+si un internaute saisit => blocs réutilisables dans google 
+
+
+
+Cas pratique :
+
+Créer un nouvel article 
+
+cet article soit être bien référencé sur google sur le mot clé "boulangerie paris"
+
+respecter au maximum l'ensemble de préconisation de Yoast
