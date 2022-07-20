@@ -32,8 +32,9 @@ texte qui contient une image
 texte soit coule autour de l'image => par défaut cet effet n'est disponible par défaut 
 dans gutenberg 
 
-par contre il est disponible dans le css => float 
-
+par contre il est disponible dans le css => float
+ 
+=> créer une grille avec plusieurs colonnes 
 => insérer l'image dans le texte via le petit triangle
 => ajouter une class css sur le p qui contient le texte ET l'image 
 => Avancé > Classe(s) CSS additionnelle(s) > text-avec-image
