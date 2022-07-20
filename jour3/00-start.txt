@@ -8,6 +8,11 @@ http://projet1.great-site.net
 back office 
 Administrative URL : http://projet1.great-site.net/wp-admin/
 
+------------------
+
+toutes les notes de cours sont disponibles sur le github :
+
+https://github.com/webdevproformation/wp-em-juillet-2022
 
 --------------
 
