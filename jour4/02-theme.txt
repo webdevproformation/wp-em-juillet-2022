@@ -1,0 +1,76 @@
+thème => 
+
+charte graphique du front office 
+changer l'apparence du front office du site internet 
+
+----------
+
+back office > Apparence > thèmes
+
+vous avez par défaut 3 thèmes disponibles 
+
+2022 
+2020
+2021 => thème officiel mis à disposition par les développeurs officiels de wp 
+chaque année une nouvelle manière de travailler / nouvelle manière de créer une apparence visuelle pour votre site 
+
+sur les 3 thèmes disponibles => celui qui a la bordure noire en bas qui va être celui qui est actif 
+
+1 seul thème peut être actif
+
+=> cliquer sur le bouton "Activer" du thème 2020
+
+----------------------------
+
+2022 => 2020 
+2020 => 2022
+
+Activer => réalisé de manière transparente 
+thème est autonome l'un de l'autre !!! 
+
+=> perdre votre barre de menu 
+
+=> l'apparence change MAIS perdu certain paramètrage dans le thème la barre de menu 
+
+=> recréer la barre de menu pour le thème 2020 
+
+menu 
+    Accueil  <a href=""></a>
+    Recette 
+        - salée
+        - sucrée
+    Wordpress 
+        - installation 
+        - mise en page 
+        - gutenberg 
+
+
+en fonction du thème actif > vous n'avez pas les mêmes options disponibles dans le back office 
+
+2020 
+Apparence > Menus 
+
+cas pratique :
+
+ajouter un nouvel article en utilisant la recette suivante comme modèle 
+https://1001recettes.blogspot.com/2011/02/cest-pas-de-la-chiclette-cette-recette.html
+
+
+=> créer 4 nouvelles catégories 
+
+=> Plat 
+    Entrée
+    Plat principal 
+    Dessert 
+
+associé au nouvel article les catégories plat + Plat principal 
+
+ajouter dans la barre de menu de nouveaux liens dans la barre de menu 
+
+Plat 
+    Entrée
+    Plat principal 
+    Dessert
+
+
+
