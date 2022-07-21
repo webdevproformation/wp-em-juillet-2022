@@ -1,0 +1,31 @@
+toutes les notes de cours sont disponibles sur le github :
+
+https://github.com/webdevproformation/wp-em-juillet-2022
+
+(présent dans le Google Drive de la class > Bloc 3 > Wordpress > lien.txt)
+
+
+live jour2 (mardi)
+
+https://wetransfer.com/downloads/fda4cdd7ef71aea3baf5efc55541892b20220719185113/047f84e3d401828a64ce8bbac55b7aa020220719185205/f39f9f
+
+
+live jour3 (mercredi)
+
+https://wetransfer.com/downloads/2303f451aeaba72e8dc97e5acd024afd20220721071157/02e25ac44d7549ee558ef2ca47c9b84620220721071214/51b384
+
+--------------------
+
+wordpress (déjà vu)
+
+supports : 
+=> le site internet l'école =>
+
+https://moodle.ecole-multimedia.com/course/view.php?id=1321
+https://moodle.ecole-multimedia.com/course/view.php?id=1323
+
+=> support du prof :
+url : https://formation.webdevpro.net/wordpress/
+login : wp
+password : wp 
+
