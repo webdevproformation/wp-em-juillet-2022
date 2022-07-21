@@ -1,0 +1,33 @@
+avez vous des questions ??? 
+
+Gutenberg => image dans du texte 
+Plugin => Yoast => référencement naturel (conseils pour votre article soit rédigé correctement pour être bien classé dans les pages de google)
+
+Yoast extension qui vit via un modèle économique 
+Freemium 
+
+=> installé Yoast gratuitement et l'utiliser => FREE
+=> dispose aussi d'une version payant (pro / premium / vip)
+donner des fonctionnalités en + 
+
+donne un outil gratuit MAIS avoir une version avancée
+
+https://yoast.com/reasons-to-upgrade-morphology
+
+=> cours => la version Free est suffisante 
+=> dans une entreprise => la version Premium 
+
+-------------------------
+
+Thème => nouvelle version de théme (qui utilise Gutenberg)
+le futur de wp et la gestion des thèmes 
+
+-------------------------
+
+
+
+Méthode classique (vieux thème + méthode classique de gestion des menus)
+Migrer votre site internet (transferer un site internet d'un ordinateur à un autre ) => comment faire ???? 
+
+Installer et utiliser le plugin Elementor (concurrent de Gutenberg)
+
