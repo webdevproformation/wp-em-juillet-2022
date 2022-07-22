@@ -1,0 +1,23 @@
+site internet (local/ hébergeur gratuit)
+
+transférer vers un autre hébergement !!! (OVH / 1&1)
+
+transférer ton site internet d'une hébergement vers un autre 
+
+=> migration d'une site internet  
+
+=> récupérer tous les textes écrits => mettre le nouveau site internet  
+
+=> export  (local/ hébergeur gratuit)
+back office > Outils > Exporter 
+
+.xml (copie de ta base de données avec toutes les informations )
+
+=> import  (vers un autre hébergement )
+
+Back office > outils > importer 
+
+FTP => copier le dossier upload dans (local/ hébergeur gratuit)
+FTP vers un autre hébergement ) => coller le dossier uploads 
+
+dans le dossier wp-content 

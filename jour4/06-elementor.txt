@@ -1,0 +1,44 @@
+Elementor (extension / plugin)
+page builder 
+
+permettre de faire de la mise en page (comme Gutenberg)
+
+pour les anciens thèmes => l'outil le plus apprécier pour réaliser de la mise en page 
+
+Yoast version Free / version Premium 
+
+Version Free (de base)
+
+ pour la page d'accueil de notre site => mise en page avec Elementor !! 
+
+ back office > Page > bouton Ajouter > Modifier avec Elementor
+
+ Article => contenu classable (associer à une catégorie)
+ page => contenu non classable (pas possible de l'associer à une catégorie)
+
+ Page => Accueil 
+         Contact 
+         Mention légale
+         CV 
+
+ Recette  catégorie => Article 
+ Article avec sujet 
+
+
+
+-----------------------------
+
+Ibrahim => hébergement mutualisé sur OVH
+- domaine principal 
+
+=> hébergement > domaine > Multisite >
+créer un sous domaine portfolio.domaine-principal.fr
+=> attend la mise en place du https / ssl  
+
+=> Module OneClick 
+associé au sous domaine un WP 
+- quelle est la base de données ?? => mot de passe 
+- récupérer le mot de passe de l'ancien projet 
+
+
+

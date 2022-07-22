@@ -1,0 +1,12 @@
+par défaut wp est livré avec 3 thèmes
+2020
+2021
+2022 
+=> les équipes de wp 
+
+=> il est possible d'ajouter des thèmes qui ont été développé par la communauté 
+
+Back office > Apparence > Themes > bouton ajouter 
+
+store wp dans lequel il y a 30000 thèmes gratuits / freemium 
+
